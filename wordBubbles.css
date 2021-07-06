@@ -9,7 +9,7 @@ body {
 }
 
 .own-game-main-container {
-  background-image: url('../../assets/img/wordbubbles/ownGame-startBackground-cut.png');
+  background-image: url('../assets/img/wordbubbles/ownGame-startBackground-cut.png');
   background-repeat: no-repeat;
   height: 100vh;
   background-size: cover;
@@ -158,7 +158,7 @@ button:focus {
   border: none;
   background-color: transparent;
   background-repeat: no-repeat;
-  background-image: url('../../assets/img/wordbubbles/close.png');
+  background-image: url('../assets/img/wordbubbles/close.png');
 }
 
 .own-game-close-icon:hover {
@@ -269,7 +269,7 @@ button:focus {
   border: none;
   background-color: transparent;
   background-repeat: no-repeat;
-  background-image: url('../../assets/img/wordbubbles/close.png');
+  background-image: url('../assets/img/wordbubbles/close.png');
 }
 
 #own-game-output {
@@ -297,7 +297,7 @@ button:focus {
 }
 
 .own-game-ending-container {
-  background-image: url('../../assets/img/wordbubbles/ownGame-gameBackground-65.png');
+  background-image: url('../assets/img/wordbubbles/ownGame-gameBackground-65.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -486,7 +486,7 @@ button:focus {
   }
 
   .own-game-ending-container {
-    background-image: url('../../assets/img/wordbubbles/ownGame-gameBackground-65.png');
+    background-image: url('../assets/img/wordbubbles/ownGame-gameBackground-65.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -654,7 +654,7 @@ button:focus {
     font-size: 125px;
   }
   .own-game-ending-container {
-    background-image: url('../../assets/img/wordbubbles/ownGame-gameBackground-65.png');
+    background-image: url('../assets/img/wordbubbles/ownGame-gameBackground-65.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -886,7 +886,7 @@ button:focus {
   }
 
   .own-game-ending-container {
-    background-image: url('../../assets/img/wordbubbles/ownGame-gameBackground-65.png');
+    background-image: url('../assets/img/wordbubbles/ownGame-gameBackground-65.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1008,7 +1008,7 @@ button:focus {
   }
 
     .own-game-ending-container {
-    background-image: url('../../assets/img/wordbubbles/ownGame-gameBackground-65.png');
+    background-image: url('../assets/img/wordbubbles/ownGame-gameBackground-65.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1184,7 +1184,7 @@ button:focus {
   }
 
   .own-game-ending-container {
-    background-image: url('../../assets/img/wordbubbles/ownGame-gameBackground-65.png');
+    background-image: url('../assets/img/wordbubbles/ownGame-gameBackground-65.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1321,7 +1321,7 @@ button:focus {
   }
 
   .own-game-ending-container {
-    background-image: url('../../assets/img/wordbubbles/ownGame-gameBackground-65.png');
+    background-image: url('../assets/img/wordbubbles/ownGame-gameBackground-65.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1471,7 +1471,7 @@ button:focus {
   }
 
   .own-game-ending-container {
-    background-image: url('../../assets/img/wordbubbles/ownGame-gameBackground-65.png');
+    background-image: url('../assets/img/wordbubbles/ownGame-gameBackground-65.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

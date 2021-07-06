@@ -265,7 +265,7 @@ export default function WordBubbles() {
     const audioRightAnswer = containerRef.querySelector('#owngame-audio-right-answer')
     const audioWrongAnswer = containerRef.querySelector('#owngame-audio-wrong-answer')
 
-    container.style.backgroundImage = 'url(\'../../assets/img/wordbubbles/ownGame-gameBackground-3.png\')'
+    container.style.backgroundImage = 'url(\'../assets/img/wordbubbles/ownGame-gameBackground-3.png\')'
     // container.style.height = '100vh'
 
     mainGame()
